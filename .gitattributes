@@ -1,0 +1,6 @@
+# ClickOnce 파일들의 줄바꿈 변환 방지 (Binary 취급)
+*.manifest binary
+*.application binary
+*.deploy binary
+*.config binary
+*.xml binary
