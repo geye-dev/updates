@@ -9,6 +9,7 @@ https://geye-dev.github.io/updates/hercules.exe
 #### SQLite DB 브라우저
 32bit
 https://geye-dev.github.io/updates/DB.Browser.for.SQLite-v3.13.1-win32.msi
+
 64bit
 https://geye-dev.github.io/updates/DB.Browser.for.SQLite-v3.13.1-win64.msi
 
